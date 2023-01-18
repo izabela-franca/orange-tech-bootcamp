@@ -1,2 +1,6 @@
-# Orange Tech Bootcamp Desafio 01
-Repositório criado para o desafio de projeto sobre Git/GitHub.
+# Orange Tech Bootcamp 💻
+
+Repositório criado para conteúdos vistos no Bootcamp Orange Tech + | Backend Java.
+<br>
+Cursos concluídos:
+  - Princípios de Desenvolvimento de Software;
