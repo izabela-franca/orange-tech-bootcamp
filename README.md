@@ -1,2 +1,2 @@
 # Orange Tech Bootcamp Desafio 01
-Repositório do desafio de projeto sobre Git/GitHub
+Repositório criado para o desafio de projeto sobre Git/GitHub.
