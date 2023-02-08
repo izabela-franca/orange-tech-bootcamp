@@ -22,5 +22,5 @@ Cursos concluídos:
   - Desafio 4: Lojinha de Doces;
   - Desafio 5: Aplicando Multa;
 
-- Programação Orientada a Objetos em Java:
+- Programação Orientada a Objetos com Java:
   - Programação Orientada a Objetos;
