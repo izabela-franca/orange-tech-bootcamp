@@ -24,3 +24,4 @@ Cursos concluídos:
 
 - Programação Orientada a Objetos com Java:
   - Programação Orientada a Objetos;
+  - Trabalhando com Collections Java;
