@@ -1,0 +1,11 @@
+Comandos Apache-Maven:
+
+- mvn compile: compilar códigos java em uma nova pasta chamada target.
+
+- mvn test: testar a aplicação
+
+- mvn package: criar o JAR da aplicação
+
+- mcv clean: limpar o diretório de trabalho (pasta target)
+
+
