@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/05_Ganhando Produtividade com Spring Framework/5.3_Imersão no Spring Framework com Spring Boot/primeiros-passos/pom.xml" />
+        <option value="$PROJECT_DIR$/05_Ganhando Produtividade com Spring Framework/5.3_Imersão no Spring Framework com Spring Boot/spring-ioc-di-beans-autowired/pom.xml" />
+        <option value="$PROJECT_DIR$/05_Ganhando Produtividade com Spring Framework/5.2_Gerenciamento de Dependências e Build em Java com Maven/webapp-project/pom.xml" />
+        <option value="$PROJECT_DIR$/05_Ganhando Produtividade com Spring Framework/5.2_Gerenciamento de Dependências e Build em Java com Maven/quick-start-maven/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="corretto-19" project-jdk-type="JavaSDK" />
+</project>
