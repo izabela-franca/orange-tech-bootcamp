@@ -1,9 +1,11 @@
-package izabela.myfirstwebapi.controller;
+package controller;
 
 import izabela.myfirstwebapi.model.Usuario;
-import izabela.myfirstwebapi.repository.UsuarioRepository;
+
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+import repository.UsuarioRepository;
 
 import java.util.List;
 
