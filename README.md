@@ -33,3 +33,4 @@ Cursos concluídos:
   - Principais Protocolos de Comunicação da Internet;
   - Gerenciamento de Dependências e Build em Java com Maven;
   - Imersão no Spring Framework com Spring Boot;
+  - Criando uma API Rest Documentada com Spring Web e Swagger
